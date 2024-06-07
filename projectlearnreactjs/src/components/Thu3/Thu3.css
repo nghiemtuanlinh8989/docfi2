@@ -1,0 +1,12 @@
+.tap1{
+    display: inline-block;
+    color: black;
+   
+}
+.muc1{
+    /* text-overflow: ellipsis; */
+    overflow: hidden;
+    -webkit-line-clamp: 7;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;   
+}

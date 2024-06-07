@@ -1,0 +1,31 @@
+ul li {
+    list-style: none;
+    /* border-right: 1px solid red; */
+}
+
+li {
+    /* border-right: 2px solid #B4B4B4; */
+}
+
+#menu  {
+    /* background-color: gold; */
+    border-bottom: 1px solid #D4D4D4;
+    /* list-style-type:none; */
+    /* text-align: center; */
+    height: 35px;
+    display: flex;
+    /* justify-content: center; */
+    gap: 18.5px;
+    /* padding-right: 30px; */
+
+}
+
+#menu #menu-li {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 15px;
+    color: black
+   
+}
+
+
